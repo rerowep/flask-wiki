@@ -9,7 +9,7 @@ flask = "*"
 markdown = "*"
 flask-wtf = "*"
 babel = ">=2.9.1"
-flask-babelex = "*"
+flask-babel = "*"
 flask-wiki = {editable = true, path = "."}
 pip = ">=21.1"
 wtforms = ">=3.0.0a1"

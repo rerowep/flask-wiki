@@ -25,7 +25,7 @@ install_requires = [
 
 setup(
     name='Flask-Wiki',
-    version='0.0.1',
+    version='0.2.4',
     url='http://github.com/jma/flask-wiki/',
     license='BSD',
     author='Johnny Mariéthoz',
